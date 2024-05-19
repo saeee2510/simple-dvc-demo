@@ -4,7 +4,7 @@ on:
   push:
     branches:
     - main
-    -main-mlflow
+    -mai-mlflow
   pull_request:
     branches:
     - main
